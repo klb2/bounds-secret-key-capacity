@@ -62,3 +62,4 @@ Thumbs.db
 *.swp
 
 Pipfile.lock
+.ipynb_checkpoints

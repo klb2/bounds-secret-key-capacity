@@ -63,3 +63,4 @@ Thumbs.db
 
 Pipfile.lock
 .ipynb_checkpoints
+*.csv

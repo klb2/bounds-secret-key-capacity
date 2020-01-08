@@ -1,4 +1,4 @@
-# Bounds on the Secret Key Capacity
+# Bounds on the Secret Key Capacity -- Supplementary Material
 
 This repository is part of the publication "Bounds on the Ergodic Secret-Key
 Capacity for Dependent Fading Channels" (Karl-Ludwig Besser and Eduard

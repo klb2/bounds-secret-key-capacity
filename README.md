@@ -1,6 +1,8 @@
 # Bounds on the Secret Key Capacity
 
-This repository is part of the publication ...
+This repository is part of the publication "Bounds on the Ergodic Secret-Key
+Capacity for Dependent Fading Channels" (Karl-Ludwig Besser and Eduard
+Jorswieck, 24th International ITG Workshop on Smart Antennas, 2020).
 
 ## Usage
 The calculations are provided in a Mathematica notebook and a Python/Jupyter
@@ -16,9 +18,11 @@ If you want to run the files locally, make sure you have
 You can install the requires packages (including Jupyter) by running
 ```
 pip3 install -r requirements.txt
+jupyter nbextension enable --py widgetsnbextension
 ```
 This will install all the needed packages which are listed in the requirements 
-file.
+file. The second line enables the interactive controls in the Jupyter
+notebooks.
 
 Afterwards, you can start the notebook by running
 ```

@@ -4,6 +4,24 @@ This repository is part of the publication "Bounds on the Ergodic Secret-Key
 Capacity for Dependent Fading Channels" (Karl-Ludwig Besser and Eduard
 Jorswieck, 24th International ITG Workshop on Smart Antennas, 2020).
 
+The idea is to give an interactive version of the calculations to the reader
+such that one can easily reproduce the plots presented in the paper as well as
+changing parameters. One can also use this framework as a baseline and adjust
+it to their own needs, e.g., for different channel models.
+
+## File List
+The following files are provided in this repository:
+
+* [Bounds on the Ergodic Secret Key
+  Capacity.ipynb](https://mybinder.org/v2/gl/klb2%2Fbounds-secret-key-capacity/master?filepath=Bounds%20on%20the%20Ergodic%20Secret%20Key%20Capacity.ipynb):
+  Jupyter notebook containing the results for Rayleigh fading presented in the
+  paper
+* `Bounds-Secret_Key_Capacity-Rayleigh.nb`: Mathematica notebook that contains
+  all calculations for Rayleigh fading
+* `Bounds-Secret_Key_Capacity-Alpha_Mu.nb`: Mathematica notebook that contains
+  all calculations for alpha-mu fading
+
+
 ## Usage
 The calculations are provided in a Mathematica notebook and a Python/Jupyter
 notebook.  
@@ -28,3 +46,14 @@ Afterwards, you can start the notebook by running
 ```
 jupyter notebook 'Bounds on the Ergodic Secret Key Capacity.ipynb'
 ```
+
+
+## Acknowledgements
+This research was supported in part by the Deutsche Forschungsgemeinschaft
+(DFG) under grant JO 801/23-1.
+
+
+## License and Referencing
+This program is licensed under the GPLv3 license. If you in any way use this
+code for research that results in publications, please cite our original
+article listed above.

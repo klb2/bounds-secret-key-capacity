@@ -1,8 +1,9 @@
-# Bounds on the Secret Key Capacity -- Supplementary Material
+# Bounds on the Secret Key Capacity &ndash; Supplementary Material
 
-This repository is part of the publication "Bounds on the Ergodic Secret-Key
-Capacity for Dependent Fading Channels" (Karl-Ludwig Besser and Eduard
-Jorswieck, 24th International ITG Workshop on Smart Antennas, 2020).
+This repository is part of the publication "[Bounds on the Ergodic Secret-Key
+Capacity for Dependent Fading
+Channels](https://ieeexplore.ieee.org/document/9097120)" (Karl-Ludwig Besser
+and Eduard Jorswieck, 24th International ITG Workshop on Smart Antennas, 2020).
 
 The idea is to give an interactive version of the calculations to the reader
 such that one can easily reproduce the plots presented in the paper as well as

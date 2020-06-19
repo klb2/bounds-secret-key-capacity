@@ -58,3 +58,15 @@ This research was supported in part by the Deutsche Forschungsgemeinschaft
 This program is licensed under the GPLv3 license. If you in any way use this
 code for research that results in publications, please cite our original
 article listed above.
+
+You can use the following BibTeX entry
+```
+@inproceedings{Besser2020wsa,
+	author = {Besser, Karl-Ludwig and Jorswieck, Eduard A.},
+	title = {Bounds on the Ergodic Secret-Key Capacity for Dependent Fading Channels},
+	booktitle = {2020 International {ITG} Workshop on Smart Antennas ({WSA})},
+	month = {2},
+	year = {2020},
+	publisher = {VDE},
+}
+```

@@ -68,5 +68,6 @@ You can use the following BibTeX entry
 	month = {2},
 	year = {2020},
 	publisher = {VDE},
+	url = {https://ieeexplore.ieee.org/document/9097120},
 }
 ```
